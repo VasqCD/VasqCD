@@ -1,4 +1,4 @@
-¡Hola! Soy Christian Vasquez, estudiante que está comenzando su viaje en el mundo de la programación. La tecnología me ha llevado a explorar diferentes lenguajes de programación y frameworks. Mi objetivo principal es adquirir experiencia práctica y ampliar mis conocimientos mientras me enfrento a desafíos de codificación.
+> ¡Hola! Soy Christian Vasquez, estudiante que está comenzando su viaje en el mundo de la programación. La tecnología me ha llevado a explorar diferentes lenguajes de programación y frameworks. Mi objetivo principal es adquirir experiencia práctica y ampliar mis conocimientos mientras me enfrento a desafíos de codificación.
 
 Actualmente, estoy centrado en aprender los fundamentos de la programación y de desarrollar mis habilidades en áreas como desarrollo web, inteligencia artificial y aplicaciones móviles. Siempre estoy dispuesto a asumir nuevos proyectos y trabajar en equipo para aprender de otros programadores más experimentados.
 

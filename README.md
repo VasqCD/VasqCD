@@ -1,6 +1,6 @@
-# Hola, soy estudiante y estoy comenzando en el mundo de la programación.
+# Hola, :wave: soy estudiante y estoy comenzando en el mundo de la programación. :smile:
 
-![Emoji programador](https://emojipedia.org/computer-technologist/)
+:computer:
 
 ## Mi objetivo principal es adquirir experiencia práctica y ampliar mis conocimientos mientras me enfrento a desafíos de codificación.
 
@@ -10,16 +10,14 @@
 
 ### Inteligencia artificial y aplicaciones móviles:
 - Aprender conceptos básicos de inteligencia artificial y aprendizaje automático.
-- Desarrollar aplicaciones móviles utilizando herramientas como React Native y Flutter.
+- Aprender a desarrollar aplicaciones móviles utilizando herramientas como React Native y Flutter.
 
 ### Colaboración y aprendizaje en equipo:
 - Asumir nuevos proyectos y trabajar en equipo para aprender de otros programadores más experimentados.
 - Participar en comunidades de desarrolladores y compartir conocimientos.
 
 ### Contacto:
-- Si tienes alguna sugerencia, consejo o simplemente quieres charlar sobre tecnología, no dudes en ponerte en contacto conmigo.
+- Si tienes alguna sugerencia, consejo, no dudes en ponerte en contacto conmigo.
 
-### Enlaces de interés:
-- [Twitter](https://twitter.com/tu_nombre)
 
-![Emoji programador]([https://emojipedia.org/computer-technologist/](https://em-content.zobj.net/source/google/387/technologist-medium-skin-tone_1f9d1-1f3fd-200d-1f4bb.png)https://em-content.zobj.net/source/google/387/technologist-medium-skin-tone_1f9d1-1f3fd-200d-1f4bb.png)
+:computer: :smile:

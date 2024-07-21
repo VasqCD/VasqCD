@@ -37,7 +37,7 @@ Este es mi proyecto más completo hasta ahora. Se trata de un sistema de ventas 
 
 ## Contacto
 
-- 📫 Puedes contactarme a través de mi [correo electrónico](mailto:tu-email@ejemplo.com).
+- 📫 Puedes contactarme a través de mi [correo electrónico](mailto:chris_vasq@outlook.es).
 - 💬 Estoy abierto a colaboraciones y nuevas ideas.
 
 Gracias por visitar mi perfil. ¡Nos vemos en el camino del código!

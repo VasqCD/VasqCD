@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador web y programador Java apasionado por la tecnología. Aquí encontrarás algunos de mis proyectos y contribuciones.
+Bienvenido a mi perfil de GitHub. Soy un desarrollador web y programador Java con pasión por la tecnología. Aquí encontrarás algunos de mis proyectos y contribuciones.
 
 [![GitHub followers](https://img.shields.io/github/followers/VasqCD?style=social)](https://github.com/VasqCD)
 [![GitHub stars](https://img.shields.io/github/stars/VasqCD?style=social)](https://github.com/VasqCD)
@@ -9,16 +9,28 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador web y programador Java ap
 
 ## Sobre mí
 
-- 🌐 Especializado en desarrollo web y bases de datos.
-- 🎯 En camino a convertirme en desarrollador fullstack.
-- 🚀 Apasionado por la programación y las nuevas tecnologías.
-- 💼 Trabajo en proyectos personales y contribuyo a la comunidad de código abierto.
+- 🌐 Desarrollador enfocado en desarrollo web y bases de datos.
+- 🎯 Apunto a convertirme en desarrollador fullstack.
+- 🚀 Entusiasta de la programación y las nuevas tecnologías.
+- 💡 Buscando poner en práctica mis conocimientos a través de proyectos personales y contribuciones a la comunidad de código abierto.
 
 ## Proyectos Destacados
 
 ### [SisVent-RepuestosDeAutos](https://github.com/VasqCD/SisVent-RepuestosDeAutos)
 
 Sistema de ventas para repuestos de autos que incluye gestión de inventario, facturación y reportes. Desarrollado con Java y MySQL.
+
+### [Floristería Perla](https://github.com/VasqCD/Floristeria-Perla)
+
+Aplicación web completa para la gestión de una floristería, incluyendo catálogo de productos, carrito de compras, procesamiento de pagos y administración de inventario. Desarrollado con PHP, Laravel y MySQL.
+
+## Habilidades Técnicas
+
+- **Desarrollo Backend:** Java, PHP, C++
+- **Desarrollo Frontend:** JavaScript, HTML, CSS, Bootstrap
+- **Bases de Datos:** MySQL, Oracle, SQL Server
+- **Frameworks:** Laravel, Vaadin
+- **Herramientas:** Git, GitHub, Docker
 
 ## Tecnologías y Herramientas
 
@@ -27,6 +39,7 @@ Sistema de ventas para repuestos de autos que incluye gestión de inventario, fa
 - **Java**
 - **C++**
 - **JavaScript**
+- **PHP**
 
 ### Lenguajes de Marcado
 

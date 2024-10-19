@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Bienvenido a mi perfil de GitHub. Soy un apasionado del desarrollo web y Java, actualmente estudiante y en constante aprendizaje. Aquí encontrarás algunos de mis proyectos y contribuciones.
+Bienvenido a mi perfil de GitHub. Soy un desarrollador web y programador Java apasionado por la tecnología. Aquí encontrarás algunos de mis proyectos y contribuciones.
 
 [![GitHub followers](https://img.shields.io/github/followers/VasqCD?style=social)](https://github.com/VasqCD)
 [![GitHub stars](https://img.shields.io/github/stars/VasqCD?style=social)](https://github.com/VasqCD)
@@ -9,38 +9,56 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado del desarrollo web y Java, a
 
 ## Sobre mí
 
-- 🌱 Actualmente, estoy mejorando mis habilidades en desarrollo web y bases de datos.
-- 🎯 Mi meta es convertirme en desarrollador fullstack.
-- 🚀 Siempre buscando aprender y crecer en el mundo de la programación.
-- 💼 Trabajando en proyectos personales y contribuyendo a la comunidad de código abierto.
+- 🌐 Especializado en desarrollo web y bases de datos.
+- 🎯 En camino a convertirme en desarrollador fullstack.
+- 🚀 Apasionado por la programación y las nuevas tecnologías.
+- 💼 Trabajo en proyectos personales y contribuyo a la comunidad de código abierto.
 
 ## Proyectos Destacados
 
 ### [SisVent-RepuestosDeAutos](https://github.com/VasqCD/SisVent-RepuestosDeAutos)
-Este es mi proyecto más completo hasta ahora. Se trata de un sistema de ventas para repuestos de autos. Aunque aún está en desarrollo.
+
+Sistema de ventas para repuestos de autos que incluye gestión de inventario, facturación y reportes. Desarrollado con Java y MySQL.
 
 ## Tecnologías y Herramientas
 
-- **Lenguajes de Programación:** Java, JavaScript, HTML, CSS
-- **Frameworks y Librerías:** Bootstrap, Vaadin, Laravel
-- **Bases de Datos:** MySQL, Oracle, SQL Server
+### Lenguajes de Programación
+
+- **Java**
+- **C++**
+- **JavaScript**
+
+### Lenguajes de Marcado
+
+- **HTML**
+
+### Hojas de Estilo
+
+- **CSS**
+
+### Frameworks y Librerías
+
+- **Bootstrap**
+- **Vaadin**
+- **Laravel**
+
+### Bases de Datos
+
+- **MySQL**
+- **Oracle**
+- **SQL Server**
 
 ## Estadísticas de GitHub
 
-![VasqCD's GitHub stats](https://github-readme-stats.vercel.app/api?username=VasqCD&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VasqCD&layout=compact)](https://github.com/VasqCD/github-readme-stats)
-
-## Últimas Actividades
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+![Estadísticas de GitHub de VasqCD](https://github-readme-stats.vercel.app/api?username=VasqCD&show_icons=true&theme=radical)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=VasqCD&layout=compact)](https://github.com/VasqCD/github-readme-stats)
 
 ## Contacto
 
 - 📫 Puedes contactarme a través de mi [correo electrónico](mailto:chris_vasq@outlook.es).
-- 💬 Estoy abierto a colaboraciones y nuevas ideas.
+- 💬 Abierto a colaboraciones y nuevas ideas.
 
-Gracias por visitar mi perfil. ¡Nos vemos en el camino del código!
+¡Gracias por visitar mi perfil!
 
 ---
 

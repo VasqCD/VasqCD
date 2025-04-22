@@ -16,12 +16,16 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador web y programador Java co
 
 ## Proyectos Destacados
 
-### [SisVent-RepuestosDeAutos](https://github.com/VasqCD/SisVent-RepuestosDeAutos)
+### [El Porvenir Steaks - API Backend](https://github.com/VasqCD/back-porvenir-steaks.git)
+API RESTful desarrollada con Laravel para el sistema de pedidos de El Porvenir Steaks. La API ofrece funcionalidades para gestión de usuarios, productos, categorías, pedidos, repartidores y ubicaciones.
 
-Sistema de ventas para repuestos de autos que incluye gestión de inventario, facturación y reportes. Desarrollado con Java y MySQL.
+### [El Porvenir Steaks - Aplicación Móvil](https://github.com/VasqCD/PorvenirSteaks.git)
+Aplicación móvil desarrollada en Android Studio para la gestión de pedidos del restaurante "El Porvenir Steaks". El sistema permite a los clientes realizar pedidos, rastrear sus entregas en tiempo real, y al restaurante administrar todo el proceso desde la recepción hasta la entrega.
+
+### [Gym Manager](https://github.com/VasqCD/Gym_Manager_v2.git)
+Sistema de gestión integral para gimnasios desarrollado con Laravel. Permite administrar membresías, clientes, pagos y más.
 
 ### [Floristería Perla](https://github.com/VasqCD/Floristeria-Perla)
-
 Aplicación web completa para la gestión de una floristería, incluyendo catálogo de productos, carrito de compras, procesamiento de pagos y administración de inventario. Desarrollado con PHP, Laravel y MySQL.
 
 ## Habilidades Técnicas

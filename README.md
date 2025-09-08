@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador web y programador Java con pasión por la tecnología. Aquí encontrarás algunos de mis proyectos y contribuciones.
+Bienvenido a mi perfil de GitHub. Soy un desarrollador web y programador con pasión por la tecnología. Aquí encontrarás algunos de mis proyectos y contribuciones.
 
 [![GitHub followers](https://img.shields.io/github/followers/VasqCD?style=social)](https://github.com/VasqCD)
 [![GitHub stars](https://img.shields.io/github/stars/VasqCD?style=social)](https://github.com/VasqCD)
@@ -58,6 +58,7 @@ Aplicación web completa para la gestión de una floristería, incluyendo catál
 - **Bootstrap**
 - **Vaadin**
 - **Laravel**
+- **Astro**
 
 ### Bases de Datos
 
